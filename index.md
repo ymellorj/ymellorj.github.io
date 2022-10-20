@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[A Study on the Relationship Between Temperature and Crime in Toronto](/pdf/Group7FinalPresentation_V01.pdf)
+<img src="images/Screenshot_20.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
